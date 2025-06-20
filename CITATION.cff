@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite our paper:"
+title: "Post-OCR Text Correction for Bulgarian historical documents"
+authors:
+  - family-names: Beshirov
+    given-names: Angel
+    orcid: https://orcid.org/0000-0002-0684-2730
+  - family-names: Dobreva
+    given-names: Milena
+    orcid: https://orcid.org/0000-0002-2579-7541
+  - family-names: Dimitrov
+    given-names: Dimitar
+    orcid: https://orcid.org/0000-0003-1308-180X
+  - family-names: Hardalov
+    given-names: Momchil
+    orcid: https://orcid.org/0000-0001-8095-3570
+  - family-names: Koychev
+    given-names: Ivan
+    orcid: https://orcid.org/0000-0003-3919-030X
+  - family-names: Nakov
+    given-names: Preslav
+    orcid: https://orcid.org/0000-0002-3600-1510
+date-released: 2025-02-21
+doi: 10.1007/s00799-025-00415-x
+preferred-citation:
+  type: article
+  title: "Post-OCR Text Correction for Bulgarian historical documents"
+  authors:
+    - family-names: Beshirov
+      given-names: Angel
+    - family-names: Dobreva
+      given-names: Milena
+    - family-names: Dimitrov
+      given-names: Dimitar
+    - family-names: Hardalov
+      given-names: Momchil
+    - family-names: Koychev
+      given-names: Ivan
+    - family-names: Nakov
+      given-names: Preslav
+  journal: "International Journal on Digital Libraries"
+  year: 2025
+  doi: 10.1007/s00799-025-00415-x
